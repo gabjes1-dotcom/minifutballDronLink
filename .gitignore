@@ -1,0 +1,17 @@
+# Copias verbatim de proyectos de terceros usadas solo como referencia durante
+# la ingenieria inversa. No se redistribuyen aqui; ver creditos en el README.
+firmware/_ref_goebish/
+firmware/_ref_sniffer/
+firmware/_ref_dump/
+
+# Artefactos de compilacion (Arduino / esptool)
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Temporales
+*.tmp
+*.log
+*~
